@@ -5,4 +5,4 @@
 
 source /invoke-ai-container/venv/bin/activate
 cd /invoke-ai-container/invoke-ai
-invokeai-web
+invokeai-web --ignore_missing_core_models
